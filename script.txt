@@ -1,1 +1,36 @@
 Eliza Zimmermann git guide
+
+⦁	Init 
+  
+Git init creates an empty repository in chosen folder. 
+ 
+⦁	Add 
+ 
+Git add adds files to the local branch
+
+⦁	Status
+ 
+ 
+Git status tells us what files are in the folder and if they are pushed to branch or no, also it informs us about what branch we are at and if something new was commited.
+
+
+⦁	Commit 
+ 
+Git commit -m commits all new files and new changes into the local branch.
+
+⦁	Remote 
+  
+Git remote add origin https://      adds chosen project and pulls it into the chosen folder.
+
+
+⦁	Push 
+ 
+Pushes all commited files to the github.
+
+⦁	Branch
+ 
+Git branch creates new separete branch from the main. Which then can be used to create features without breaking main branch.
+
+⦁	Checkout 
+ 
+Git checkout switches branch for chosen one.
