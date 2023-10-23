@@ -34,3 +34,18 @@ Git branch creates new separete branch from the main. Which then can be used to 
 ⦁	Checkout 
  
 Git checkout switches branch for chosen one.
+⦁	Merge 
+ 
+Git merge mergers branches into one, while it merges it also automatically pushes commits to github.
+
+⦁	Log 
+ 
+Git log shows you all the commits with authors and dates.
+
+⦁	Clone 
+ 
+Git clone clones the chosen repository from github.
+
+⦁	Pull 
+ 
+Git pull pull the updated repository from gihub.
