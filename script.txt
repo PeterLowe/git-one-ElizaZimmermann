@@ -49,3 +49,8 @@ Git clone clones the chosen repository from github.
 ⦁	Pull 
  
 Git pull pull the updated repository from gihub.
+
+⦁	Stash 
+ 
+git stash creates local only copy of working directory.
+
