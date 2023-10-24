@@ -54,3 +54,6 @@ Git pull pull the updated repository from gihub.
  
 git stash creates local only copy of working directory.
 
+⦁	Rm 
+ 
+git rm removes the file or files.
